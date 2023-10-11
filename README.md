@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aakashmurtadak
 - 👀 I’m interested in ... power bi 
-- 🌱 I’m currently learning ... mysql,and power bi
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently work on  ... mysql,and power bi
+
 
 <!---
 Aakashmurtadak/Aakashmurtadak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
